@@ -1,2 +1,2 @@
-# gh_privacy_noise
-Privacy-noise generator
+# Privacy-Noise Generator
+Bash script which scrambles that activity dashboard.
